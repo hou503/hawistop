@@ -1094,23 +1094,6 @@ pre .javascript .function {
 }
 .header-inner {
   position: relative;
-  padding: 0 !important;
-}
-.posts-expand {
-  padding: 0 !important;
-}
-.header-middle {
-  margin: auto;
-}
-.header-left {
-  position: fixed;
-  left: 0;
-  top: 120px;
-}
-.header-right {
-  position: fixed;
-  right: 0;
-  top: 120px;
 }
 .headband {
   height: 3px;
@@ -1839,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f96b16;
+  background: #5be0a2;
 }
 .links-of-blogroll {
   font-size: 13px;
