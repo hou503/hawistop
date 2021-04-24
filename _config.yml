@@ -86,5 +86,5 @@ search:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://gitee.com/hou1123/i2297.git
+  repo: https://gitee.com/hou1123/hawistop.git
   branch: deploy

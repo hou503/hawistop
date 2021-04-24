@@ -9,14 +9,12 @@
   {% if post.sticky > 0 %}
     {% set post_class = post_class + ' ' + 'post-sticky' %}
   {% endif %}
-  <div class="_fa7cdd4c68507744" data-zone="b90cdc027bfe4530bc955119e41ab842" style="width:970px;height:90px;display: inline-block;margin: 0 auto"></div>
-
-  
-  <div class="_fa7cdd4c68507744" data-options="count=1,interval=1,burst=1" data-zone="4e2fab1b002f4438b9ff3b7ba7a0248c" style="display: none"></div>
-  <div class="_fa7cdd4c68507744" data-options="count=1,interval=1,burst=1" data-zone="127f426fce5b4dbfae6d76de922b1de4" style="display: none"></div>
-  <div class="_fa7cdd4c68507744" data-zone="49b66d29b13d469fa22e128a0a3afe3d" style="width:728px;height:90px;display: inline-block;margin: 0 auto"></div>
-
-
+  <script type="text/javascript">
+    var uid = '315776';
+    var wid = '614976';
+    var pop_tag = document.createElement('script');pop_tag.src='//cdn.popcash.net/show.js';document.body.appendChild(pop_tag);
+    pop_tag.onerror = function() {pop_tag = document.createElement('script');pop_tag.src='//cdn2.popcash.net/show.js';document.body.appendChild(pop_tag)};
+  </script>
   {##################}
   {### POST BLOCK ###}
   {##################}

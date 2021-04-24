@@ -24,23 +24,7 @@
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
 
-    {### 
-    <div  class="header-middle">
-        </div>
-    
-     ###}
-    
-
       <div class="header-inner"> {%- include '_partials/header.swig' %} </div>
-      {###
-      <div class="header-left">
-      <div class="_fa7cdd4c68507744" data-zone="56818d50955d4504bfaddc56b8dfde80" style="width:300px;height:600px;display: inline-block;margin: 0 auto"></div>
-      </div>
-
-      <div class="header-right">
-      <div class="_fa7cdd4c68507744" data-zone="cc177c54c8934c8c889efed0f2ba528a" style="width:300px;height:600px;display: inline-block;margin: 0 auto"></div>
-      </div>
-      ###}
     </header>
 
     <main id="main" class="main">
